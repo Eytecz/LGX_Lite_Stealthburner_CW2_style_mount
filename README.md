@@ -1,5 +1,6 @@
 # LGX_Lite_Stealthburner_CW2_style_mount
-LGX Lite extruder mount for the Voron Stealthburner.
+LGX Lite extruder mount for the Voron Stealthburner. The standard bowden clip delivered with the LGX Lite is to be removed, and a standard UM2 connector has to be inserted in the top printed part (Hi, the clip that it was designed for is a bit more rigid than the standard clip delivered with the LGX Lite. This style clip is to be used: https://nl.aliexpress.com/item/32896103430.html
+
 
 # LGX Lite mount standard
 The standard version is made to accomodate only the LGX Lite with the stealthburner and the new carriage. The housing style is matching with the original CW2 design. I recommend to insert a 3mm long 4x2mm bowden tube on the bottom of the LGX Lite to guide the filament properly. The cover and cable carrier mount can be re-used from the original version. 
