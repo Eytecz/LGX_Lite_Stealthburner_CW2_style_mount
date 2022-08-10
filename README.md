@@ -21,7 +21,7 @@ In the rear housing there are 4 threaded inserts M3 to be placed on the back as 
 
 # Cable hatch and cable carrier
 
-The standard cable door hatch and cable carrier support can be re-used from the original CW2.
+The standard cable door hatch and cable carrier support can be re-used from the original CW2. Be sure to mount the cable door before mounting the LGX Lite into the housing. You won't be able to reach the fastener once the LGX Lite is placed.
 
 ![2022-08-10 21_26_32-Solid Edge 2022 - Assembly -  LGX_Lite_Stealthburner_ERCF asm](https://user-images.githubusercontent.com/94404962/184004892-57ca2bc1-2480-4f65-ae28-1cc3ad90077a.png)
 
