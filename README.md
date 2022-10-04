@@ -10,6 +10,11 @@ The toolhead sensor is a standard hall effect switch (AH3364Q-P-B), which can be
 
 To mount the LGX Lite to the body, use the 4 screws DIN912 M3x16mm, too long screws will damage the gears within the LGX!
 
+Optionally one can choose to use the PCB version, which supports the Hartk Stealthburner PCB.
+
+![2022-10-04 20_12_45-Solid Edge 2022 - Assembly -  LGX_Lite_Stealthburner_ERCF asm](https://user-images.githubusercontent.com/94404962/193894614-877d1e52-f3ea-4523-9a56-edaec5d3307d.png)
+
+
 # M3 Threaded insert locations
 In the front housing there are 2 threaded inserts M3 which needs to be placed on the 'inside' to fixate the actual Stealthburner cover to. 
 
@@ -24,5 +29,10 @@ In the rear housing there are 4 threaded inserts M3 to be placed on the back as 
 The standard cable door hatch and cable carrier support can be re-used from the original CW2. Be sure to mount the cable door before mounting the LGX Lite into the housing. You won't be able to reach the fastener once the LGX Lite is placed.
 
 ![2022-08-10 21_26_32-Solid Edge 2022 - Assembly -  LGX_Lite_Stealthburner_ERCF asm](https://user-images.githubusercontent.com/94404962/184004892-57ca2bc1-2480-4f65-ae28-1cc3ad90077a.png)
+
+Optional for the PCB version is the enlarged cover.
+
+![2022-10-04 20_12_10-Solid Edge 2022 - Assembly -  LGX_Lite_Stealthburner_ERCF asm](https://user-images.githubusercontent.com/94404962/193894458-bb5b31d5-1fd6-40fb-b773-a98d260716b7.png)
+
 
 I am not responsible in any way on how this impacts your printer. Use at your own risk.
